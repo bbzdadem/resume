@@ -19,7 +19,7 @@ class Header extends Component {
             {data.headerTagline[2]}
                <br></br>
                     <button><a href={`mailto:${data.contactEmail}`} rel="noopener noreferrer" >Contact</a></button>
-                    <button className="hmmbtn" ><a href="https://drive.google.com/file/d/1CDAwtOlnkKq0sK2eX3y0Ca7xEwxkrqQS/view?usp=sharing" rel="noopener noreferrer" >Download CV</a></button>
+                    <button className="hmmbtn" ><a href="https://drive.google.com/file/d/1wK9UJcd6fPjTRi_S6XIOeAA4QKjTPpb_/view?usp=sharing" rel="noopener noreferrer" >Download CV</a></button>
                 </p>
             </Fade>
 
